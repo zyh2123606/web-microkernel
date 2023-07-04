@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","sources":["../../../plugins/rhjc-web-main-plugin/src/index.ts"],"sourcesContent":["export default () => {\n  console.log('测试插件加载成功')\n}"],"names":[],"mappings":";;AAAA,cAAe,MAAM;EACnB,EAAA,OAAA,CAAQ,GAAI,CAAA,kDAAA,CAAA,CAAA;EAAA,CAAA;;;;;;;;"}

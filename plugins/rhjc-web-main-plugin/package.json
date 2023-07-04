@@ -1,0 +1,7 @@
+{
+  "name": "@plugins/rhjc-web-main-plugin",
+  "main": "src/index.ts",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {}
+}
